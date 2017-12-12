@@ -1,5 +1,5 @@
 # StoriPy
-Tool for grabbing tweets with a given hashtag from the day - a quick n dirty Storify replacement sorta thingy 
+Tool for grabbing tweets with a given hashtag from the day - a quick n dirty Storify replacement sorta thingy. It basically gets all the tweets, writes the ones with today's date to a text file, and stops when it gets past today's date. 
 
 You gotta have tweepy installed: `pip3 install tweepy`. You also need Twitter API keys which you can get from https://apps.twitter.com (you'll need to create a new app and click on the 'Keys and Access Tokens' tab, then copy the strings of characters into the text)
 
